@@ -10,7 +10,7 @@ Using global nutrition datasets from FAO and USDA, along with obesity and health
 
 ## Problem Statement
 
-"Nutritional habits are deeply linked to public health outcomes, particularly obesity, diabetes, and cardiovascular disease. Over the past 50 years, globalization and industrialization of food production have changed how and what we eat. Using global nutrition datasets (FAO, USDA) and obesity/health outcome statistics, students will investigate how diets are shifting, which countries face the fastest growth in obesity, and how dietary diversity, food affordability, and economic status shape nutritional health."
+Nutritional habits are deeply linked to public health outcomes, particularly obesity, diabetes, and cardiovascular disease. Over the past 50 years, globalization and industrialization of food production have changed how and what we eat. Using global nutrition datasets (FAO, USDA) and obesity/health outcome statistics, students will investigate how diets are shifting, which countries face the fastest growth in obesity, and how dietary diversity, food affordability, and economic status shape nutritional health.
 
 ---
 
@@ -56,21 +56,3 @@ Using global nutrition datasets from FAO and USDA, along with obesity and health
 
 ---
 
-## How to Use This Repository
-
-1. Clone the repository.
-2. Follow data preparation scripts to download and process USDA and FAO datasets.
-3. Run exploratory analysis notebooks to understand data trends.
-4. Use visualization tools to interactively explore nutrient consumption.
-5. Execute predictive model scripts for forecasting health outcomes.
-6. Review the final report for in-depth insights and conclusions.
-
----
-
-## Contact and Collaboration
-
-For questions or contributions, please reach out to the project lead or open an issue in this repository.
-
----
-
-Thank you for your interest and contributions to understanding nutrition and obesity trends globally.
