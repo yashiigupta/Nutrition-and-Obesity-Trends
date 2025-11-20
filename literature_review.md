@@ -1,19 +1,49 @@
-# Literature Reviews
+# 📚 Literature Reviews
 
-## 1. Health effects of dietary risks in 195 countries, 1990–2017: A Systematic Analysis for the Global Burden of Disease Study 2017 - The Lancet, 2019
+---
 
-### Description
-This comprehensive global study examines the relationship between dietary factors and health outcomes across 195 countries. The research investigates 15 key dietary risk factors and their contribution to non-communicable diseases, particularly cardiovascular diseases, diabetes, and cancer, and spans from 1990 to 2017.
+## **1. Health effects of dietary risks in 195 countries (1990–2017)**  
+### *Global Burden of Disease Study 2017 – The Lancet, 2019*
 
-### Research Methodology and Dataset Sources
-The study employs the Comparative Risk Assessment Framework from GBD 2017, utilizing data collected from multiple authoritative sources including national nutrition surveys, FAO databases, Euromonitor, and the Global Nutrient Database. The research methodology combines spatiotemporal regression analysis, meta-analysis techniques, and Monte Carlo simulations with 1000 iterations to ensure statistical reliability. The team calculated Population Attributable Fractions (PAFs) and Disability-Adjusted Life Years (DALYs) to quantify the health impacts of dietary risks.
+### **Description**
+This global study analyzes how 15 key dietary risk factors influence major non-communicable diseases—including cardiovascular diseases, diabetes, and cancer—across **195 countries** from **1990 to 2017**.
 
-### Final Insights
-The research revealed that poor dietary habits were responsible for approximately 11 million deaths and 255 million DALYs in 2017, accounting for roughly 22% of all adult deaths globally. High sodium intake, low whole grain consumption, and insufficient fruit intake emerged as the most significant dietary risk factors. While age-standardized rates showed some improvement over time, the study highlighted that poor diet has surpassed tobacco as a leading cause of death. The findings emphasize the critical need for promoting balanced diets rich in whole foods and implementing effective food policies to address these dietary challenges.
+### **Research Methodology & Dataset Sources**
+- Uses the **GBD 2017 Comparative Risk Assessment Framework**  
+- Data sources include:
+  - National dietary surveys  
+  - FAO databases  
+  - Euromonitor  
+  - Global Nutrient Database  
+- Methods:
+  - Spatiotemporal regression analysis  
+  - Meta-analyses  
+  - **Monte Carlo simulations (1000 iterations)**  
+- Metrics calculated:
+  - **Population Attributable Fractions (PAFs)**  
+  - **Disability-Adjusted Life Years (DALYs)**  
 
-### Link
-⁠[Health effects of dietary risks in 195 countries, 1990–2017](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30041-8/fulltext)
+### **Final Insights**
+- Poor dietary habits caused **~11 million deaths** and **255 million DALYs** in 2017.  
+- Top risk factors:
+  - High sodium intake  
+  - Low whole-grain intake  
+  - Low fruit intake  
+- Poor diet has **surpassed tobacco** as a leading cause of global mortality.  
+- Emphasizes the need for strong nutrition policies and whole-food dietary patterns.
 
-## More to review
-•⁠  ⁠[BMJ Global Health (2021): Dietary Risks & Chronic Disease](https://gh.bmj.com/content/6/2/e003585) <br>
-•⁠  ⁠[OECD: Obesity, Diet & Physical Activity](https://www.oecd.org/en/topics/obesity-diet-and-physical-activity.html)
+### **Link**
+[Health effects of dietary risks in 195 countries, 1990–2017 – The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30041-8/fulltext)
+
+---
+
+## **2. Global Burden of Diabetes – GBD Collaborators (The Lancet, Multiple Years)**
+
+### **Description**
+A comprehensive set of studies assessing the **global, regional, and national burden of diabetes** (Type 1 and Type 2) across 195+ countries. The series evaluates prevalence, incidence, mortality, and disability trends over several decades.
+
+### **Research Methodology & Dataset Sources**
+Data sources include:
+- National health and nutrition surveys  
+- WHO STEPS surveillance  
+- Vital registrations
